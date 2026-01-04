@@ -74,5 +74,3 @@ Kullanılan Teknolojiler
 - matplotlib, seaborn
 - scikit-learn
 
-   pip install pandas numpy matplotlib seaborn scikit-learn
-
